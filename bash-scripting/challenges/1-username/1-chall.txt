@@ -1,0 +1,14 @@
+Write a script that asks for a user name, if it is the same as the current user print 'Access granted for <username>', else print 'Access denied for <username>'
+
+Examples :
+# suppose current user is shellmates
+
+####
+
+Enter your username : shellmates
+Access granted for shellmates
+
+####
+
+Enter your username : intruder
+Access denied for intruder

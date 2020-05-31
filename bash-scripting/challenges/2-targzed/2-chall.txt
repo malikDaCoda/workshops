@@ -1,0 +1,4 @@
+The file archive-100.tar.gz has been targz-ed a 100 times, can you write a script to see what’s actually hiding in there ?
+
+To decompress a tar.gz archive :
+  tar xzf archive.tar.gz

@@ -1,0 +1,7 @@
+The folder contains some jpg images and some png images, we need you to convert thoses jpg images to png and vice-versa. Write a script that performs this task
+
+To convert an image from jpg to png, use this command :
+  convert image.jpg image.png
+
+And vice-versa :
+    convert image.png image.jpg
